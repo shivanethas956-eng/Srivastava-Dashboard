@@ -293,6 +293,7 @@ a:hover {
     transition-duration: 0.01ms !important;
   }
 }
+<<<<<<< HEAD
 
 /* Portfolio layout matching the reference screenshot */
 :root {
@@ -668,3 +669,5 @@ a:hover {
     justify-content: center;
   }
 }
+=======
+>>>>>>> 359c441ddca4084dde34f6e27b111337ab9a26f6
